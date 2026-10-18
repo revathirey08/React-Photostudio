@@ -1,0 +1,13 @@
+body{
+  margin: 0;
+  font-family: arial, sans-serif;
+  background: light Lavender;
+  text-align: center;
+
+
+}
+h1{
+  background: purple;
+  color:white;
+  padding:25px;
+}

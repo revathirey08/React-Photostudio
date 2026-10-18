@@ -1,0 +1,17 @@
+.card{
+    background: white;
+    padding:20px; 
+    margin: 10px;
+    border-radius: 12px;
+    box-shadow:lightgrey;
+    display: inline-block;
+    width: 200px;
+    margin-inline-start:auto ;
+  
+}
+.card h2{
+    color:purple;
+}
+.card h3{
+    color:green;
+}
