@@ -1,0 +1,21 @@
+.click-events {
+  background-color: white;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: goldenrod;
+}
+
+.click-events h2 {
+  color: purple;
+}
+
+.click-events button {
+  background-color: purple;
+  color: white;
+  padding: 10px 15px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
